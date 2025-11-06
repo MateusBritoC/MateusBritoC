@@ -85,7 +85,7 @@ Tenho interesse nas áreas de desenvolvimento de software, tecnologia e sistemas
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBritoC&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusBritoC&theme=tokyonight&layout=compact&cache_seconds=60" 
   />
 
 </p>
